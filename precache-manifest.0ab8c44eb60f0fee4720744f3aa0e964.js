@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "407bf0d4c86edac56c2b",
+    "revision": "64b3542c1cb871211bc5",
     "url": "/react/static/css/main.fcdd2868.chunk.css"
   },
   {
-    "revision": "407bf0d4c86edac56c2b",
-    "url": "/react/static/js/main.407bf0d4.chunk.js"
+    "revision": "64b3542c1cb871211bc5",
+    "url": "/react/static/js/main.64b3542c.chunk.js"
   },
   {
     "revision": "4e6a4b677d1c1e6ba359",
     "url": "/react/static/js/runtime~main.4e6a4b67.js"
   },
   {
-    "revision": "acf1f3880848f298e354",
-    "url": "/react/static/js/2.acf1f388.chunk.js"
+    "revision": "b8979859023625d592ca",
+    "url": "/react/static/js/2.b8979859.chunk.js"
   },
   {
     "revision": "e37326c7e0fd9826c1a35b231340f58b",
@@ -38,6 +38,10 @@ self.__precacheManifest = [
   {
     "revision": "b81dabc0bc6ca52fce921e3a928d5e0f",
     "url": "/react/static/media/dots.b81dabc0.png"
+  },
+  {
+    "revision": "3c1be480e4dfce41cdf23b574f32f4d2",
+    "url": "/react/static/media/donni.3c1be480.jpg"
   },
   {
     "revision": "4fd59ead57f5b7dfa3ca0db01414a256",
@@ -68,8 +72,8 @@ self.__precacheManifest = [
     "url": "/react/static/media/square2.6619b979.png"
   },
   {
-    "revision": "ca25707397fcc982d7dc1f82555f09a0",
-    "url": "/react/static/media/square1.ca257073.png"
+    "revision": "23fa76237f0066f4ffd8f20e77449887",
+    "url": "/react/static/media/square3.23fa7623.png"
   },
   {
     "revision": "8fdf9ee20db40e5d1cf778bf99486cb7",
@@ -80,8 +84,8 @@ self.__precacheManifest = [
     "url": "/react/static/media/square5.ff004a0e.png"
   },
   {
-    "revision": "23fa76237f0066f4ffd8f20e77449887",
-    "url": "/react/static/media/square3.23fa7623.png"
+    "revision": "ca25707397fcc982d7dc1f82555f09a0",
+    "url": "/react/static/media/square1.ca257073.png"
   },
   {
     "revision": "01899307116a937c66a0eb4b3927b631",
@@ -120,11 +124,7 @@ self.__precacheManifest = [
     "url": "/react/static/media/square-purple-1.79c1998f.png"
   },
   {
-    "revision": "3c1be480e4dfce41cdf23b574f32f4d2",
-    "url": "/react/static/media/donni.3c1be480.jpg"
-  },
-  {
-    "revision": "364793e4652f864bde150fb9e698c676",
+    "revision": "39171e2f9aa0ad93ffa08ec8ee24f7a2",
     "url": "/react/index.html"
   }
 ];
