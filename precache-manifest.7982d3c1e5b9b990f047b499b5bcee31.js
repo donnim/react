@@ -1,43 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "f3560f0c324bd84f0230",
-    "url": "/react/static/css/main.b3093a79.chunk.css"
+    "revision": "407bf0d4c86edac56c2b",
+    "url": "/react/static/css/main.fcdd2868.chunk.css"
   },
   {
-    "revision": "f3560f0c324bd84f0230",
-    "url": "/react/static/js/main.f3560f0c.chunk.js"
+    "revision": "407bf0d4c86edac56c2b",
+    "url": "/react/static/js/main.407bf0d4.chunk.js"
   },
   {
     "revision": "4e6a4b677d1c1e6ba359",
     "url": "/react/static/js/runtime~main.4e6a4b67.js"
   },
   {
-    "revision": "d81073fb62cbcb538463",
-    "url": "/react/static/js/2.d81073fb.chunk.js"
+    "revision": "acf1f3880848f298e354",
+    "url": "/react/static/js/2.acf1f388.chunk.js"
   },
   {
     "revision": "e37326c7e0fd9826c1a35b231340f58b",
     "url": "/react/static/media/path4.e37326c7.png"
   },
   {
-    "revision": "ceb241f05718fb1311f8810eea959803",
-    "url": "/react/static/media/path5.ceb241f0.png"
-  },
-  {
-    "revision": "b1e01ebbb0d098277dcc97759bc3f402",
-    "url": "/react/static/media/path1.b1e01ebb.png"
-  },
-  {
-    "revision": "a70167ea1491987c50049961a9e2e45f",
-    "url": "/react/static/media/path3.a70167ea.png"
-  },
-  {
     "revision": "43ff45c5dc1f65726b86fc75ea6cabc0",
     "url": "/react/static/media/path2.43ff45c5.png"
-  },
-  {
-    "revision": "be4a1748d0f94c35e0a661164495d160",
-    "url": "/react/static/media/mike.be4a1748.jpg"
   },
   {
     "revision": "2ae3f9ecc812ca146d952de9c8e8c0ba",
@@ -52,12 +36,16 @@ self.__precacheManifest = [
     "url": "/react/static/media/mark-finn.3a749d18.jpg"
   },
   {
-    "revision": "79c1998fb18c2d0078bee11f902364e3",
-    "url": "/react/static/media/square-purple-1.79c1998f.png"
+    "revision": "b81dabc0bc6ca52fce921e3a928d5e0f",
+    "url": "/react/static/media/dots.b81dabc0.png"
   },
   {
     "revision": "4fd59ead57f5b7dfa3ca0db01414a256",
     "url": "/react/static/media/etherum.4fd59ead.png"
+  },
+  {
+    "revision": "ceb241f05718fb1311f8810eea959803",
+    "url": "/react/static/media/path5.ceb241f0.png"
   },
   {
     "revision": "5987dd12fea78ce5f97ae601b08ec03c",
@@ -76,16 +64,8 @@ self.__precacheManifest = [
     "url": "/react/static/media/nucleo.b17a118e.ttf"
   },
   {
-    "revision": "b81dabc0bc6ca52fce921e3a928d5e0f",
-    "url": "/react/static/media/dots.b81dabc0.png"
-  },
-  {
     "revision": "6619b9792d7d108bb589b51bbd560278",
     "url": "/react/static/media/square2.6619b979.png"
-  },
-  {
-    "revision": "23fa76237f0066f4ffd8f20e77449887",
-    "url": "/react/static/media/square3.23fa7623.png"
   },
   {
     "revision": "ca25707397fcc982d7dc1f82555f09a0",
@@ -100,32 +80,8 @@ self.__precacheManifest = [
     "url": "/react/static/media/square5.ff004a0e.png"
   },
   {
-    "revision": "9d4a558e7169ed763a05715627bc088c",
-    "url": "/react/static/media/ryan.9d4a558e.jpg"
-  },
-  {
-    "revision": "ddaf636676f8b04cdec8cdb40750277f",
-    "url": "/react/static/media/james.ddaf6366.jpg"
-  },
-  {
-    "revision": "96764d80118b4ece734dc14401283b76",
-    "url": "/react/static/media/lora.96764d80.jpg"
-  },
-  {
-    "revision": "4ffd4fe7945af123788bf5888296c696",
-    "url": "/react/static/media/github.4ffd4fe7.svg"
-  },
-  {
-    "revision": "87be59a1f7061fc6021876aad6fee028",
-    "url": "/react/static/media/google.87be59a1.svg"
-  },
-  {
-    "revision": "c085e83e15808eff561f13f30ce937c2",
-    "url": "/react/static/media/landing-page.c085e83e.png"
-  },
-  {
-    "revision": "2515c8e5bccbb8334071a0cce1bb2540",
-    "url": "/react/static/media/profile-page.2515c8e5.png"
+    "revision": "23fa76237f0066f4ffd8f20e77449887",
+    "url": "/react/static/media/square3.23fa7623.png"
   },
   {
     "revision": "01899307116a937c66a0eb4b3927b631",
@@ -148,6 +104,10 @@ self.__precacheManifest = [
     "url": "/react/static/media/chester-wade.62a04e26.jpg"
   },
   {
+    "revision": "a70167ea1491987c50049961a9e2e45f",
+    "url": "/react/static/media/path3.a70167ea.png"
+  },
+  {
     "revision": "d70c756f2a739722a398819cfa7287a7",
     "url": "/react/static/media/bitcoin.d70c756f.png"
   },
@@ -156,7 +116,15 @@ self.__precacheManifest = [
     "url": "/react/static/media/ripp.98742a82.png"
   },
   {
-    "revision": "20d458923757a60509f1a62d4e127c02",
+    "revision": "79c1998fb18c2d0078bee11f902364e3",
+    "url": "/react/static/media/square-purple-1.79c1998f.png"
+  },
+  {
+    "revision": "3c1be480e4dfce41cdf23b574f32f4d2",
+    "url": "/react/static/media/donni.3c1be480.jpg"
+  },
+  {
+    "revision": "364793e4652f864bde150fb9e698c676",
     "url": "/react/index.html"
   }
 ];
