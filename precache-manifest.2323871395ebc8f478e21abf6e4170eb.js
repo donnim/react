@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "556ea442f2897a0c56aa",
+    "revision": "b36314ca5553398347f2",
     "url": "/react/static/css/main.fcdd2868.chunk.css"
   },
   {
-    "revision": "556ea442f2897a0c56aa",
-    "url": "/react/static/js/main.556ea442.chunk.js"
+    "revision": "b36314ca5553398347f2",
+    "url": "/react/static/js/main.b36314ca.chunk.js"
   },
   {
     "revision": "4e6a4b677d1c1e6ba359",
     "url": "/react/static/js/runtime~main.4e6a4b67.js"
   },
   {
-    "revision": "a7eab343bf080224abc1",
-    "url": "/react/static/js/2.a7eab343.chunk.js"
+    "revision": "fa79dda2f6dafc085092",
+    "url": "/react/static/js/2.fa79dda2.chunk.js"
   },
   {
     "revision": "e37326c7e0fd9826c1a35b231340f58b",
@@ -68,24 +68,24 @@ self.__precacheManifest = [
     "url": "/react/static/media/dots.b81dabc0.png"
   },
   {
-    "revision": "6619b9792d7d108bb589b51bbd560278",
-    "url": "/react/static/media/square2.6619b979.png"
+    "revision": "ca25707397fcc982d7dc1f82555f09a0",
+    "url": "/react/static/media/square1.ca257073.png"
   },
   {
     "revision": "23fa76237f0066f4ffd8f20e77449887",
     "url": "/react/static/media/square3.23fa7623.png"
   },
   {
-    "revision": "ca25707397fcc982d7dc1f82555f09a0",
-    "url": "/react/static/media/square1.ca257073.png"
+    "revision": "ff004a0e5de54ba9dbd8583fa7e1b3f5",
+    "url": "/react/static/media/square5.ff004a0e.png"
   },
   {
     "revision": "8fdf9ee20db40e5d1cf778bf99486cb7",
     "url": "/react/static/media/square4.8fdf9ee2.png"
   },
   {
-    "revision": "ff004a0e5de54ba9dbd8583fa7e1b3f5",
-    "url": "/react/static/media/square5.ff004a0e.png"
+    "revision": "6619b9792d7d108bb589b51bbd560278",
+    "url": "/react/static/media/square2.6619b979.png"
   },
   {
     "revision": "01899307116a937c66a0eb4b3927b631",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/react/static/media/square-purple-1.79c1998f.png"
   },
   {
-    "revision": "a81c142fbb8a77dbc73f11aaf97953f3",
+    "revision": "88d6f99018e2f8480628747bb9cc199b",
     "url": "/react/index.html"
   }
 ];
